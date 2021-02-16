@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Adding values/out/
+/Problems/Adding values/out/production/classes/
+/Problems/Check sudoku/out/
+/Problems/Check sudoku/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/

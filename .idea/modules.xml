@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe.Problems-Adding_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe.Problems-Adding_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe.Problems-Adding_values.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe.Problems-Adding_values.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe.Problems-Adding_values.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Tic-Tac-Toe.Problems-Adding_values.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Raise to the power/Tic-Tac-Toe.Problems-Raise_to_the_power.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Raise to the power/Tic-Tac-Toe.Problems-Raise_to_the_power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Raise to the power/Tic-Tac-Toe.Problems-Raise_to_the_power.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Raise to the power/Tic-Tac-Toe.Problems-Raise_to_the_power.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Raise to the power/Tic-Tac-Toe.Problems-Raise_to_the_power.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Raise to the power/Tic-Tac-Toe.Problems-Raise_to_the_power.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
